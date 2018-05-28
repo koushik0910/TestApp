@@ -19,12 +19,6 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    func test(){
-        print("Just For Testing")
-    }
-    func test1(){
-        print("Just For Testing")
-    }
     
 }
 
