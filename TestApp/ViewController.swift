@@ -22,6 +22,9 @@ class ViewController: UIViewController {
     func test(){
         print("Just For Testing")
     }
-
+    func test1(){
+        print("Just For Testing")
+    }
+    
 }
 
